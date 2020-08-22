@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
+INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
+INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/6e29d39a00824215b050a1af4ab4633e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/cf6ec38a6b1dab8d6bd1b66411c3316b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/1a3953f5f6646396b32257cfd57fe273/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/545e599045798e781ff3b9653f0bd29b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/e70f52eddb4ad3d7ffecaf6f0c89198f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/553214b3cb004c4bed97b063de4f49c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/89f0783eb76213a84a5d26fd7f837906/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/e704ad2a18856504c4bce30da2c2f07d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/cb6881a8bc4c6a5e27d93979bd7d15e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/0a0a9aeb9514ec266ee984ef79c2e17c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/162430280a0ef9cc412dbe9675e9d29e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/a6fbd2af3997d77e4ebee7d434207ede/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/fb9051cdc420ae8b3dd1b4133e77333b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/44709ee5e29d867a1ff340ec19d7d519/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/ed4bda7dbf2ad5a7aa3d6401664de9c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/a6f7b62cb052b41511d40992edbf3d80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/fb8a22229d7f9c6fe6482181b44a035a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/0ee31b8fb4ef2aed1774e92725cf107a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/f32215052339f59f42108e62514adc3c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/bb91b4c5623a990098b63d5cd6da0c9d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/3dc983c3996aec7230a5dd5506d7225b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/95bf1ce4ed0c8ba7e3a6e6c559faea55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/61c5071cb745f083fea919dd7bf41ca8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/17be5a906aedda1940eb08f6a66d6cd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/7403cd203fa3bbd624a0f38d5714c6da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/549e3a05082fdbb27d7e6154874c33a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/62d4ec7734756b76140f82bb57296f82/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/6b1350b1fdfddcf25baa432e92f510a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/80ab44a2398007f9a5af0d011221b939/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/6415b187326efcd44b83f00ff30b9046/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
+INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:20:1-47:12
+	package
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:22:5-49
+	android:versionName
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:24:5-30
+		INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:21:5-63
+	android:versionCode
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:23:5-28
+		INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:27:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:28:22-76
+application
+ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:30:5-46:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/f32215052339f59f42108e62514adc3c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/f32215052339f59f42108e62514adc3c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/bb91b4c5623a990098b63d5cd6da0c9d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/bb91b4c5623a990098b63d5cd6da0c9d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/f32215052339f59f42108e62514adc3c/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:31:9-41
+	android:icon
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:32:9-45
+	android:allowBackup
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:33:9-44
+	android:networkSecurityConfig
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:35:9-69
+activity#com.example.android.networkconnect.MainActivity
+ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:38:13-45
+	android:uiOptions
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:39:13-57
+	android:name
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:37:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml:43:27-74
+uses-sdk
+INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/6e29d39a00824215b050a1af4ab4633e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/6e29d39a00824215b050a1af4ab4633e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/cf6ec38a6b1dab8d6bd1b66411c3316b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/cf6ec38a6b1dab8d6bd1b66411c3316b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/1a3953f5f6646396b32257cfd57fe273/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/1a3953f5f6646396b32257cfd57fe273/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/545e599045798e781ff3b9653f0bd29b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/545e599045798e781ff3b9653f0bd29b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/e70f52eddb4ad3d7ffecaf6f0c89198f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/e70f52eddb4ad3d7ffecaf6f0c89198f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/553214b3cb004c4bed97b063de4f49c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/553214b3cb004c4bed97b063de4f49c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/89f0783eb76213a84a5d26fd7f837906/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/89f0783eb76213a84a5d26fd7f837906/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/e704ad2a18856504c4bce30da2c2f07d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/e704ad2a18856504c4bce30da2c2f07d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/cb6881a8bc4c6a5e27d93979bd7d15e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/cb6881a8bc4c6a5e27d93979bd7d15e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/0a0a9aeb9514ec266ee984ef79c2e17c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/0a0a9aeb9514ec266ee984ef79c2e17c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/162430280a0ef9cc412dbe9675e9d29e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/162430280a0ef9cc412dbe9675e9d29e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/a6fbd2af3997d77e4ebee7d434207ede/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/a6fbd2af3997d77e4ebee7d434207ede/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/fb9051cdc420ae8b3dd1b4133e77333b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/fb9051cdc420ae8b3dd1b4133e77333b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/44709ee5e29d867a1ff340ec19d7d519/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/44709ee5e29d867a1ff340ec19d7d519/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/ed4bda7dbf2ad5a7aa3d6401664de9c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/ed4bda7dbf2ad5a7aa3d6401664de9c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/a6f7b62cb052b41511d40992edbf3d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/a6f7b62cb052b41511d40992edbf3d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/fb8a22229d7f9c6fe6482181b44a035a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/fb8a22229d7f9c6fe6482181b44a035a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/0ee31b8fb4ef2aed1774e92725cf107a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/0ee31b8fb4ef2aed1774e92725cf107a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/f32215052339f59f42108e62514adc3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/f32215052339f59f42108e62514adc3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/bb91b4c5623a990098b63d5cd6da0c9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/bb91b4c5623a990098b63d5cd6da0c9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/3dc983c3996aec7230a5dd5506d7225b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/3dc983c3996aec7230a5dd5506d7225b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/95bf1ce4ed0c8ba7e3a6e6c559faea55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/95bf1ce4ed0c8ba7e3a6e6c559faea55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/61c5071cb745f083fea919dd7bf41ca8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/61c5071cb745f083fea919dd7bf41ca8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/17be5a906aedda1940eb08f6a66d6cd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/17be5a906aedda1940eb08f6a66d6cd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/7403cd203fa3bbd624a0f38d5714c6da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/7403cd203fa3bbd624a0f38d5714c6da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/549e3a05082fdbb27d7e6154874c33a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/549e3a05082fdbb27d7e6154874c33a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/62d4ec7734756b76140f82bb57296f82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/62d4ec7734756b76140f82bb57296f82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/6b1350b1fdfddcf25baa432e92f510a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/6b1350b1fdfddcf25baa432e92f510a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/80ab44a2398007f9a5af0d011221b939/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/80ab44a2398007f9a5af0d011221b939/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/6415b187326efcd44b83f00ff30b9046/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/arunkarka/.gradle/caches/transforms-2/files-2.1/6415b187326efcd44b83f00ff30b9046/AndroidManifest.xml:20:5-44
+INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/src/main/AndroidManifest.xml

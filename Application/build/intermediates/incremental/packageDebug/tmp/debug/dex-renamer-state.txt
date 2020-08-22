@@ -1,0 +1,4 @@
+#Sat Aug 22 16:30:57 CDT 2020
+base.0=/Users/arunkarka/Documents/StudioProjects/NetworkConnect/Application/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
